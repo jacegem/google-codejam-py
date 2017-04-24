@@ -5,85 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7573db0e-d76d-48e0-b792-99bbd72b7af6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BA/A-large.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BA/A-small-attempt0.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BA/A-small-attempt1.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BA/A-small-attempt2.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BA/Problem A. Steed 2 Cruise Control.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BB/B-small-attemp.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/R1BB/Problem B. Stable Neigh-bors.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-large (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-large (1).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-large.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-large.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-small-attempt.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-small-attempt.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-small-attempt0.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-small-attempt0.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-small-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/A-small-practice.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QA/Problem A. Counting Sheep.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-large.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-large.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-large0.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-large0.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-small-attempt0 (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-small-attempt0 (1).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-small-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/B-small-practice.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QB/Problem B. Revenge of the Pancakes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-large.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-large.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-small-attempt0 (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-small-attempt0 (1).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-small-attempt0.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-small-attempt0.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-small-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/C-small-practice.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QC/Problem C. Coin Jam.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-large.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-large.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt0 (2).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt0 (2).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt2 (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt2 (1).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt3.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt3.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt4.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt4.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt5.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt5.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt6.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-attempt6.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-practice.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/D-small-practice.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/QD/Problem D. Fractiles.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-large (2).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-large (2).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-small-attempt0 (2).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-small-attempt0 (2).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-small-attempt1 (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-small-attempt1 (1).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-small-attempt2 (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/A-small-attempt2 (1).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/Problem A. Senate Evacuation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/sample.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Ca/sample.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/B-small-attempt0 (2).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/B-small-attempt0 (2).in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/B-small-attempt1.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/B-small-attempt1.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/Problem B. Slides!.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/sample.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cb/sample.in.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cc/Problem C. Fashion Police.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cc/sample.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/R1Cc/sample.in.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/CodeJam.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CodeJam.iml" afterPath="$PROJECT_DIR$/.idea/CodeJam.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -130,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem B. Stable Neigh-bors.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem B. Stable Neigh-bors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017/R1BB/Problem B. Stable Neigh-bors.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="692">
@@ -256,11 +183,11 @@
         <option value="$PROJECT_DIR$/2017/QA/Problem A. Oversized Pancake Flipper.py" />
         <option value="$PROJECT_DIR$/2017/QB/Problem B. Tidy Numbers.py" />
         <option value="$PROJECT_DIR$/2017/QC/Problem C. Bathroom Stalls. Large.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/2017/R1BA/A-small-attempt0.in" />
         <option value="$PROJECT_DIR$/2017/R1BA/Problem A. Steed 2 Cruise Control.py" />
         <option value="$PROJECT_DIR$/2017/R1BB/B-small-attemp.in" />
         <option value="$PROJECT_DIR$/2017/R1BB/Problem B. Stable Neigh-bors.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -298,7 +225,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="google-codejam" />
+              <option name="myItemId" value="google-codejam-py" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -308,7 +235,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="google-codejam" />
+              <option name="myItemId" value="google-codejam-py" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -317,42 +244,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google-codejam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google-codejam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="R1BB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google-codejam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google-codejam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="R1BA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -723,6 +614,28 @@
       <option name="presentableId" value="Default" />
       <updated>1491614156253</updated>
     </task>
+    <task id="LOCAL-00001" summary="added google codejam 2017 Qualification round">
+      <created>1493046487046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493046487046</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added google codejam 2017 Qualification round">
+      <created>1493046901885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493046901885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added google codejam 2016 Qualification round">
+      <created>1493047084696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493047084696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -754,6 +667,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added google codejam 2017 Qualification round" />
+    <MESSAGE value="added google codejam 2016 Qualification round" />
+    <option name="LAST_COMMIT_MESSAGE" value="added google codejam 2016 Qualification round" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1005,14 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017/QD/Problem D. Fashion Show.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1564">
@@ -1073,6 +983,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="692">
           <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
